@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Playwrite+GB+S:ital,wght@0,100..400;1,100..400&display=swap');
+
+body {
+  background-color: #066D77;
+  color: antiquewhite;
+  font-family: "Playwrite GB S", cursive;
+}
+
+.todoButton{
+  background-color: #5E99A2;
+  color: antiquewhite;
+  border-radius: 9%;
+
+}
+
+.loginButton{
+  background-color: #5E99A2;
+  color: antiquewhite;
+  border-radius: 9%;
+}
+
+.logoutButton{
+  background-color: rgba(220, 20, 60, 0.715);
+  color: antiquewhite;
+  border-radius: 9%;
+}
+
+.loginMessage{
+  color: rgba(220, 20, 60, 0.715);
+}
+
